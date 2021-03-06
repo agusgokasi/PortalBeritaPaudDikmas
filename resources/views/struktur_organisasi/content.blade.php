@@ -1,0 +1,1 @@
+<a href="https://paud-dikmas.kemdikbud.go.id/images/mediaFiles/SO.jpg" data-lightbox="photos"><img class="img-fluid" src="https://paud-dikmas.kemdikbud.go.id/images/mediaFiles/SO.jpg"></a>         
